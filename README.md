@@ -21,3 +21,8 @@ alias.setAlias({
 //set alias in global
 global['alias'] = alias;
 ``` 
+
+
+#### attribute
+
+.alias: all alias save in this attribute
