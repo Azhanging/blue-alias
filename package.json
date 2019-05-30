@@ -1,0 +1,26 @@
+{
+  "name": "blue-alias",
+  "version": "1.0.0",
+  "description": "node alias manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azhanging/blue-alias.git"
+  },
+  "keywords": [
+    "module",
+    "alias"
+  ],
+  "author": "Blue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azhanging/blue-alias/issues"
+  },
+  "homepage": "https://github.com/azhanging/blue-alias#readme",
+  "dependencies": {
+    "blue-utils": "^1.0.12"
+  }
+}
